@@ -1,0 +1,15 @@
+{
+  "name": "npm-exe",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joenix",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "npm-process": "^1.0.1"
+  }
+}
